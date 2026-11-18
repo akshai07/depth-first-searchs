@@ -2,7 +2,6 @@
 <h3>Name: Akshaikhana D </h3>
 <h3>Register Number:  212223040010 </h3>
 
-# Date: 23/10/2026
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
